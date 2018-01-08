@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WindowTV.iml" filepath="$PROJECT_DIR$/WindowTV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMK - WindowTV.iml" filepath="$PROJECT_DIR$/IMK - WindowTV.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
