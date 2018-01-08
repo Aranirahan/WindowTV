@@ -39,6 +39,7 @@ public ImageView night;
         tabLayout.addTab(tabLayout.newTab().setText("RECENT"));
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
 
+
         final ViewPager viewPager = (ViewPager) findViewById(R.id.pager);
 
         PagerAdapter adapter = new PagerAdapter(getSupportFragmentManager(), tabLayout.getTabCount());
